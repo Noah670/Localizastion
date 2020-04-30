@@ -1,2 +1,2 @@
 # Localizastion
-Demonstrating the unique Localization features of Swift
+Demonstrating the unique Localization features of Swift in various langauges
